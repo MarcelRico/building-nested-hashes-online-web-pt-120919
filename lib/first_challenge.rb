@@ -20,5 +20,5 @@ def second_challenge
         :heroine_friends => []
      }
   }
-  return epic_tragedy
+  return epic_tragedy.keys
 end
