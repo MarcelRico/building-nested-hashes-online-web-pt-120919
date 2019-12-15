@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here:
 
-  
+  [:hero,:heroine].each{|person| epic_tragedy}
   
   
 
